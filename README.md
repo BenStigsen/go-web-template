@@ -1,5 +1,5 @@
 # Golang Webserver Template
-This is a template project the I commonly use to start various Go projects.
+This is a template project that I commonly use to start various Go projects.
 
 ## Features
 - Routing and middleware with [`chi`](https://github.com/go-chi/chi)
